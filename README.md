@@ -1,4 +1,4 @@
-## Hi there 👋
+<center><i>Life is nothing but an electron looking for a place to rest.</i></center>
 
 <!--
 **iawnix/iawnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
